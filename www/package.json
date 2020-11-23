@@ -2,7 +2,7 @@
   "name": "pritunl-zero",
   "dependencies": {
     "@blueprintjs/core": "3.19.1",
-    "@blueprintjs/datetime": "3.14.0",
+    "@blueprintjs/datetime": "3.19.3",
     "@blueprintjs/icons": "3.11.0",
     "@types/flux": "3.1.9",
     "@types/jquery": "3.3.31",
