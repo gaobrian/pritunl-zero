@@ -24,7 +24,7 @@
     "react-day-picker": "7.3.2",
     "react-lifecycles-compat": "3.0.4",
     "history": "4.10.1",
-    "superagent": "5.1.0"
+    "superagent": "10.2.2"
   },
   "jspm": {
     "dependencies": {
